@@ -1,21 +1,19 @@
-# Codeforces Solutions 🚀
+# Competitive Programming Codes ⚡
 
-This repository contains my solutions to various [Codeforces](https://codeforces.com/) problems.  
-I use **C++** for most problems, focusing on competitive programming techniques such as:
+This repository contains **my own solutions** to different competitive programming problems.  
+It includes problems from:
 
-- Data Structures
-- Dynamic Programming
-- Strings and sorting
-- Greedy & Brute Force
+- 📂 `codeforces/` → Codeforces problems
+- 📂 `atcoder/` → AtCoder contests
+- 📂 `oci/` → Olimpiada Chilena de Informática (OCI)
 
-## 📂 Structure
-- Each file corresponds to a single problem.
-- Named by **contest number** and **problem letter** (e.g., `136A_A.cpp`).
+## 📝 About
+- Written mostly in **C++** 💻
+- Focused on algorithms, data structures, math, and problem solving.
+- Organized by platform/contest.
 
 ## 🎯 Goal
-Sharpen problem-solving skills and prepare for contests.
+Keep track of my journey in competitive programming and share solutions that may help others 🚀
 
----
-⭐ Feel free to explore and suggest improvements!
 
 
